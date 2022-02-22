@@ -1,3 +1,4 @@
 local friend = {
 
 }
+return friend
